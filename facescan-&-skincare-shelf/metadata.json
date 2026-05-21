@@ -1,0 +1,10 @@
+{
+  "name": "FaceScan & Skincare Shelf",
+  "description": "AI-powered skincare face scanner and intelligent stock tracker, featuring active ingredient safety checks, barrier cooling off phases, and Dart/Flutter code outputs.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
